@@ -1,0 +1,22 @@
+{
+  "name": "schoolclock",
+  "version": "0.0.1",
+  "description": "A clock to manage my subjects",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/ssebastianoo/SchoolClock"
+  },
+  "keywords": [
+    "school",
+    "clock"
+  ],
+  "author": "ssebastianoo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
