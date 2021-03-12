@@ -1,0 +1,27 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background: #23272A;
+  color: white;
+  text-align: center;
+}
+
+.day, .clock {
+  margin-top: 50px;
+}
+
+.weekDay {
+  font-size: 30px;
+}
+
+.subjects {
+  list-style-type: none;
+  padding: 0;
+}
+
+.hour {
+  font-size: 17px;
+}
+
+li {
+  margin-top: 10px;
+}
