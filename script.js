@@ -3,7 +3,7 @@ const subjects = {
     {"time": "9:00", "subject": "Plastiche E3"},
     {"time": "9:50", "subject": "Plastiche E3"},
     {"time": "10:40", "subject": "Ricreazione"},
-    {"time": "10:50", "subject": "Plastiche E30"},
+    {"time": "10:50", "subject": "Plastiche E3"},
     {"time": "11:40", "subject": "Storia dell'Arte B7"},
     {"time": "12:30", "subject": "Inglese B7"},
     {"time": "13:18", "subject": "Ricreazione"},
